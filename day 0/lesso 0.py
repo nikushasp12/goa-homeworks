@@ -71,6 +71,7 @@ right(90)
 forward(30)
 right(90)
 
-
+write("goa")
 
 exitonclick()
+ 
