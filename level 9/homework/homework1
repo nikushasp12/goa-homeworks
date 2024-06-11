@@ -1,0 +1,3 @@
+num1=int(input("sheiyvane 1 ricxvi"))
+num2=int(input("sheivane 2ricxvi"))
+print(num1+num2)
